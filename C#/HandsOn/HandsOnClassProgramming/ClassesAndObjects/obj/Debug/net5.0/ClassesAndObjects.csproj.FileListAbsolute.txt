@@ -1,0 +1,16 @@
+D:\Training(02.08.2021)\Modules\C#\HandsOn\HandsOnClassProgramming\ClassesAndObjects\bin\Debug\net5.0\ClassesAndObjects.exe
+D:\Training(02.08.2021)\Modules\C#\HandsOn\HandsOnClassProgramming\ClassesAndObjects\bin\Debug\net5.0\ClassesAndObjects.deps.json
+D:\Training(02.08.2021)\Modules\C#\HandsOn\HandsOnClassProgramming\ClassesAndObjects\bin\Debug\net5.0\ClassesAndObjects.runtimeconfig.json
+D:\Training(02.08.2021)\Modules\C#\HandsOn\HandsOnClassProgramming\ClassesAndObjects\bin\Debug\net5.0\ClassesAndObjects.runtimeconfig.dev.json
+D:\Training(02.08.2021)\Modules\C#\HandsOn\HandsOnClassProgramming\ClassesAndObjects\bin\Debug\net5.0\ClassesAndObjects.dll
+D:\Training(02.08.2021)\Modules\C#\HandsOn\HandsOnClassProgramming\ClassesAndObjects\bin\Debug\net5.0\ref\ClassesAndObjects.dll
+D:\Training(02.08.2021)\Modules\C#\HandsOn\HandsOnClassProgramming\ClassesAndObjects\bin\Debug\net5.0\ClassesAndObjects.pdb
+D:\Training(02.08.2021)\Modules\C#\HandsOn\HandsOnClassProgramming\ClassesAndObjects\obj\Debug\net5.0\ClassesAndObjects.csproj.AssemblyReference.cache
+D:\Training(02.08.2021)\Modules\C#\HandsOn\HandsOnClassProgramming\ClassesAndObjects\obj\Debug\net5.0\ClassesAndObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training(02.08.2021)\Modules\C#\HandsOn\HandsOnClassProgramming\ClassesAndObjects\obj\Debug\net5.0\ClassesAndObjects.AssemblyInfoInputs.cache
+D:\Training(02.08.2021)\Modules\C#\HandsOn\HandsOnClassProgramming\ClassesAndObjects\obj\Debug\net5.0\ClassesAndObjects.AssemblyInfo.cs
+D:\Training(02.08.2021)\Modules\C#\HandsOn\HandsOnClassProgramming\ClassesAndObjects\obj\Debug\net5.0\ClassesAndObjects.csproj.CoreCompileInputs.cache
+D:\Training(02.08.2021)\Modules\C#\HandsOn\HandsOnClassProgramming\ClassesAndObjects\obj\Debug\net5.0\ClassesAndObjects.dll
+D:\Training(02.08.2021)\Modules\C#\HandsOn\HandsOnClassProgramming\ClassesAndObjects\obj\Debug\net5.0\ref\ClassesAndObjects.dll
+D:\Training(02.08.2021)\Modules\C#\HandsOn\HandsOnClassProgramming\ClassesAndObjects\obj\Debug\net5.0\ClassesAndObjects.pdb
+D:\Training(02.08.2021)\Modules\C#\HandsOn\HandsOnClassProgramming\ClassesAndObjects\obj\Debug\net5.0\ClassesAndObjects.genruntimeconfig.cache

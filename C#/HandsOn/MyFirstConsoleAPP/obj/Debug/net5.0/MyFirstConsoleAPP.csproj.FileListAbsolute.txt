@@ -1,0 +1,16 @@
+D:\Training(02.08.2021)\C#\HandsOn\MyFirstConsoleAPP\bin\Debug\net5.0\MyFirstConsoleAPP.exe
+D:\Training(02.08.2021)\C#\HandsOn\MyFirstConsoleAPP\bin\Debug\net5.0\MyFirstConsoleAPP.deps.json
+D:\Training(02.08.2021)\C#\HandsOn\MyFirstConsoleAPP\bin\Debug\net5.0\MyFirstConsoleAPP.runtimeconfig.json
+D:\Training(02.08.2021)\C#\HandsOn\MyFirstConsoleAPP\bin\Debug\net5.0\MyFirstConsoleAPP.runtimeconfig.dev.json
+D:\Training(02.08.2021)\C#\HandsOn\MyFirstConsoleAPP\bin\Debug\net5.0\MyFirstConsoleAPP.dll
+D:\Training(02.08.2021)\C#\HandsOn\MyFirstConsoleAPP\bin\Debug\net5.0\ref\MyFirstConsoleAPP.dll
+D:\Training(02.08.2021)\C#\HandsOn\MyFirstConsoleAPP\bin\Debug\net5.0\MyFirstConsoleAPP.pdb
+D:\Training(02.08.2021)\C#\HandsOn\MyFirstConsoleAPP\obj\Debug\net5.0\MyFirstConsoleAPP.csproj.AssemblyReference.cache
+D:\Training(02.08.2021)\C#\HandsOn\MyFirstConsoleAPP\obj\Debug\net5.0\MyFirstConsoleAPP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training(02.08.2021)\C#\HandsOn\MyFirstConsoleAPP\obj\Debug\net5.0\MyFirstConsoleAPP.AssemblyInfoInputs.cache
+D:\Training(02.08.2021)\C#\HandsOn\MyFirstConsoleAPP\obj\Debug\net5.0\MyFirstConsoleAPP.AssemblyInfo.cs
+D:\Training(02.08.2021)\C#\HandsOn\MyFirstConsoleAPP\obj\Debug\net5.0\MyFirstConsoleAPP.csproj.CoreCompileInputs.cache
+D:\Training(02.08.2021)\C#\HandsOn\MyFirstConsoleAPP\obj\Debug\net5.0\MyFirstConsoleAPP.dll
+D:\Training(02.08.2021)\C#\HandsOn\MyFirstConsoleAPP\obj\Debug\net5.0\ref\MyFirstConsoleAPP.dll
+D:\Training(02.08.2021)\C#\HandsOn\MyFirstConsoleAPP\obj\Debug\net5.0\MyFirstConsoleAPP.pdb
+D:\Training(02.08.2021)\C#\HandsOn\MyFirstConsoleAPP\obj\Debug\net5.0\MyFirstConsoleAPP.genruntimeconfig.cache
